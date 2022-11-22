@@ -1,8 +1,8 @@
 version: 1.2.1
 files:
-  - url: 火星加速器_setup_1.2.1.exe
+  - url: hxlm.exe
     sha512: 2cN/h6taBYP2/QtBBHU3QJrOERdoWJbS4ZKEAaFtAeDd/ndnxjhSdkqC+04WIP31DDh3K+QTgE26VUHmnIDjPw==
     size: 74121006
-path: 火星加速器_setup_1.2.1.exe
+path: hxlm.exe
 sha512: 2cN/h6taBYP2/QtBBHU3QJrOERdoWJbS4ZKEAaFtAeDd/ndnxjhSdkqC+04WIP31DDh3K+QTgE26VUHmnIDjPw==
 releaseDate: '2022-11-22T12:27:12.247Z'
